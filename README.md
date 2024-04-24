@@ -6,6 +6,9 @@ This repository contains the accompanying code to the paper: "Convolutional Spik
 
 ![image](https://github.com/sid-nadendla/BI-SpikeEEG/assets/59081541/277b747d-d86c-47b0-b01d-ad7cf4e0ced9)
 
+![image](https://github.com/sid-nadendla/BI-SpikeEEG/assets/59081541/57a60766-f999-4a90-a85b-631d1745ccea)
+
+
 Read the paper here at: https://www.nature.com/articles/s41598-024-59469-7
 
 Cite this work as shown below:
